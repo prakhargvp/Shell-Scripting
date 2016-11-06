@@ -4,4 +4,4 @@
 2. _Learning git_
 
 ### To Others ###
-1. _Learn Shell Script_
+1. _Learn Shell Script with me_
