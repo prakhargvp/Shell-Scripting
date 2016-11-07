@@ -1,0 +1,6 @@
+step 1: START
+step 2: INPUT A NUMBER, say num
+step 3: IF (num & 1) is equal to 0 , then goto step 4, ELSE goto step 5
+step 4: PRINT "Even No"
+step 5: PRINT "Odd No"
+step 6: STOP
