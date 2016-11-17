@@ -1,15 +1,15 @@
-[Algo Used]
+[Algo_Used]
 1. (number>>1)<<1 = number, right shift then left shift is equal to number in case of even number 
 
 Example :
 a. 4>>1 = 0100>>1 = 0010 = 2 = (0010)<<1 = 0100 = 4 , even no 
 b. 5>>1 = 0101>>1 = 0010 = 2 = (0010)<<1 = 0100 = 4 , odd no 
 
-[Shell Commands Used]
+[Shell_Commands_Used]
 1. echo
 2. printf
 
-[Shell Script Syntax]
+[Shell_Script_Syntax]
 1. $(( ... )) 
 2. if-else
 3. read
@@ -22,4 +22,5 @@ b. 5>>1 = 0101>>1 = 0010 = 2 = (0010)<<1 = 0100 = 4 , odd no
    a. 4>>1 = 0100>>1 = 0010 = 2 
    b. 5>>1 = 0101>>1 = 0010 = 2 
 
-
+[Tags]
+left Shift,Right Shift
