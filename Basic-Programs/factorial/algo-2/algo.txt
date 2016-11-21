@@ -1,0 +1,9 @@
+step-1 : START
+step-2 : INPUT A NUMBER , say num
+step-3 : SET i=1
+step-4 : SET fact=1
+step-5 : IF i <= num , then repeat step 6,7 ELSE goto step 8
+step-6 : SET fact=fact*i
+step-7 : SET i=i+1
+step-8 : PRINT fact
+step-9 : STOP 

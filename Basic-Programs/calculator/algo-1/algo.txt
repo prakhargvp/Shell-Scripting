@@ -1,0 +1,13 @@
+step-1 : START
+step-2 : INPUT 2 NUMBERS, Say a,b
+step-3 : INPUT CHOICE, Say ch
+step-4 : IF ch==1 then goto step 8 ELSE goto step 5
+step-5 : IF ch==2 then goto step 9 ELSE goto step 6
+step-6 : IF ch==3 then goto step 10 ELSE goto step 7
+step-7 : IF ch==4 then goto step 11 ELSE goto step 13
+step-8 : res=a+b , goto step 12
+step-9 : res=a-b , goto step 12
+step-10 : res=a*b , goto step 12
+step-11 : res=a/b , goto step 12
+step-12 : PRINT res
+step-13 : STOP

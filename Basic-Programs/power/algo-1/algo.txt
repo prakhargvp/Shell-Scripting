@@ -1,0 +1,8 @@
+step-1 : START
+step-2 : INPUT 2 NUMBERS, say a,b
+step-3 : SET res=1
+step-4 : IF b > 0 then repeat step 5,6 ELSE goto step 7
+step-5 : SET res=res+a
+step-6 : SET b=b-1
+step-7 : PRINT res
+step-8 : STOP
