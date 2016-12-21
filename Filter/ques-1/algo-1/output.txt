@@ -1,0 +1,7 @@
+varun manager Sales 50000
+tarun peon Sales 15000
+sunil clerk Account 25000
+satvik direcotr Purchase 80000
+deepak clerk Sales 23000
+amit manager Account 47000
+ajay manager Account 45000
