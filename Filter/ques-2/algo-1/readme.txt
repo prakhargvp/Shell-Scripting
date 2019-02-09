@@ -1,5 +1,0 @@
-[Algo_Used]
-[Shell_Commands_Used]
-[Shell_Script_Syntax]
-[Tags]
-[Other]
